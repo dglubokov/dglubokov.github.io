@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idmitryz</title>
+    <link>https://idmitryz.github.io/</link>
+    <description>Recent content on idmitryz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Apr 2020 22:27:27 +0300</lastBuildDate>
+    
+	<atom:link href="https://idmitryz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bliki</title>
+      <link>https://idmitryz.github.io/bliki/</link>
+      <pubDate>Thu, 09 Jul 2020 18:55:27 +0300</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/</guid>
+      <description>Here are my personal best practices on various aspects of life.
+It is divided into sections. Each section is prioritized and contains a set of pages.
+ base-health physical-health functional  </description>
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>https://idmitryz.github.io/posts/2020-04-19-start/</link>
+      <pubDate>Sun, 19 Apr 2020 22:27:27 +0300</pubDate>
+      
+      <guid>https://idmitryz.github.io/posts/2020-04-19-start/</guid>
+      <description>This is not my first attempt to start a blog / channel in which I would write something (for example this telegram chanel). This time I approached everything in a more organized manner and I think that in the near and long time I will fix my thoughts / ideas / notes. The blog itself will be run in bliki format. I think this is the best option for me.
+If we talk about what the bliki consists of, then this is of course the feed itself, sorted by date of writing + a separate wiki page that contains a collection of various best or state-of-the-art practices (like ailev).</description>
+    </item>
+    
+  </channel>
+</rss>
