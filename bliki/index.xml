@@ -11,59 +11,5 @@
 	<atom:link href="https://idmitryz.github.io/bliki/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Base health</title>
-      <link>https://idmitryz.github.io/bliki/base-health/</link>
-      <pubDate>Thu, 09 Jul 2020 19:00:27 +0300</pubDate>
-      
-      <guid>https://idmitryz.github.io/bliki/base-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idmitryz.github.io/bliki/applied/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idmitryz.github.io/bliki/applied/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idmitryz.github.io/bliki/physical-health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idmitryz.github.io/bliki/physical-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idmitryz.github.io/bliki/thinking-base/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idmitryz.github.io/bliki/thinking-base/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idmitryz.github.io/bliki/trans-disciplines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idmitryz.github.io/bliki/trans-disciplines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://idmitryz.github.io/bliki/trans-thinking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idmitryz.github.io/bliki/trans-thinking/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

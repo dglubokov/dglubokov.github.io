@@ -6,20 +6,27 @@
     <description>Recent content on idmitryz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2020 22:27:27 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://idmitryz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bliki</title>
-      <link>https://idmitryz.github.io/bliki/</link>
+      <title>Addictions</title>
+      <link>https://idmitryz.github.io/bliki/base-health/addictions/</link>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://idmitryz.github.io/bliki/</guid>
-      <description>Here are my personal best practices on various aspects of life.
-It is divided into sections. Each section is prioritized and contains a set of pages.
- base-health physical-health functional  </description>
+      <guid>https://idmitryz.github.io/bliki/base-health/addictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>https://idmitryz.github.io/bliki/functional/attention/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/attention/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -38,6 +45,74 @@ Programming languages: Python, Go, Rust, Julia.</description>
     </item>
     
     <item>
+      <title>Learning</title>
+      <link>https://idmitryz.github.io/bliki/functional/learning/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://idmitryz.github.io/bliki/functional/memory/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prioritization</title>
+      <link>https://idmitryz.github.io/bliki/functional/prioritization/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/prioritization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>https://idmitryz.github.io/bliki/base-health/rest/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/base-health/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhythms</title>
+      <link>https://idmitryz.github.io/bliki/base-health/rhythms/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/base-health/rhythms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>https://idmitryz.github.io/bliki/base-health/sleep/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/base-health/sleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eating</title>
+      <link>https://idmitryz.github.io/bliki/base-health/eating/</link>
+      <pubDate>Thu, 09 Jul 2020 18:57:27 +0300</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/base-health/eating/</guid>
+      <description>Изложенные принципы питания основаны на аналитических трудах Андрея Беловешкина, а сами его труды основаны на последних научных исследованиях.
+ 1. Режим питания  Чистые промежутки Пищевое окно Пищевой хронотип   2. Отношения с едой  Ешьте, когда голодны Осознанная медленная еда Периодический фастинг   3. Что есть  1. Режим питания Чистые промежутки https://www.beloveshkin.com/2015/04/uroven-insulina-i-perekusy.html
+Необходимо питаться четко определенное количество раз, так как перекусы могут плохо повлиять на эндокринную систему, что повлечет за собой последствия на другие биологические системы организма.
+Уровень инсулина и обычное трехразовое питание
+Уровень инсулина и питание с перекусами
+Хроническая неправильная работа инсулиновой системы может привести к развитию диабета.</description>
+    </item>
+    
+    <item>
       <title>Start</title>
       <link>https://idmitryz.github.io/posts/2020-04-19-start/</link>
       <pubDate>Sun, 19 Apr 2020 22:27:27 +0300</pubDate>
@@ -45,6 +120,177 @@ Programming languages: Python, Go, Rust, Julia.</description>
       <guid>https://idmitryz.github.io/posts/2020-04-19-start/</guid>
       <description>This is not my first attempt to start a blog / channel in which I would write something (for example this telegram chanel). This time I approached everything in a more organized manner and I think that in the near and long time I will fix my thoughts / ideas / notes. The blog itself will be run in bliki format. I think this is the best option for me.
 If we talk about what the bliki consists of, then this is of course the feed itself, sorted by date of writing + a separate wiki page that contains a collection of various best or state-of-the-art practices (like ailev).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/functional/procrastinology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/procrastinology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/functional/time-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/time-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/functional/workplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/functional/workplace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/balance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/balance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/bodily-awareness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/bodily-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/dexterity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/dexterity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/flexibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/flexibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/posture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/posture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/speed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/physical-health/strength/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/physical-health/strength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/thinking-base/cognitive-biases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/thinking-base/cognitive-biases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/thinking-base/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/thinking-base/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/thinking-base/logic-biases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/thinking-base/logic-biases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/thinking-base/ontologics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/thinking-base/ontologics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/trans-thinking/computational/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/trans-thinking/computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/trans-thinking/mathematical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/trans-thinking/mathematical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/trans-thinking/scientific/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/trans-thinking/scientific/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/trans-thinking/statistical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/trans-thinking/statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://idmitryz.github.io/bliki/trans-thinking/system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitryz.github.io/bliki/trans-thinking/system/</guid>
+      <description></description>
     </item>
     
   </channel>
