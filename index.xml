@@ -38,10 +38,7 @@
       <description>Hi! My name is Dmitry and I love science, technologies and medicine. I am trying make this world a better place and help people.
 Birth: October 20, 1998, Moscow, Russia.
 Skills and interests Biomed: Bioinformatics. Computational biology. Ageing-related diseases.
-Math: Topological data analysis. Information geometry. Geometric methods.
-Computer Science: Algorithms. Machine learning.
-Languages: Russian, English.
-Programming languages: Python, Go, Rust, Julia.</description>
+Math: Topological data analysis. Information geometry. Geometric methods.</description>
     </item>
     
     <item>
@@ -105,11 +102,7 @@ Programming languages: Python, Go, Rust, Julia.</description>
       
       <guid>https://idmitryz.github.io/bliki/base-health/eating/</guid>
       <description>Изложенные принципы питания основаны на аналитических трудах Андрея Беловешкина, а сами его труды основаны на последних научных исследованиях.
- 1. Режим питания  Чистые промежутки Пищевое окно Пищевой хронотип   2. Отношения с едой  Ешьте, когда голодны Осознанная медленная еда Периодический фастинг   3. Что есть  1. Режим питания Чистые промежутки https://www.beloveshkin.com/2015/04/uroven-insulina-i-perekusy.html
-Необходимо питаться четко определенное количество раз, так как перекусы могут плохо повлиять на эндокринную систему, что повлечет за собой последствия на другие биологические системы организма.
-Уровень инсулина и обычное трехразовое питание
-Уровень инсулина и питание с перекусами
-Хроническая неправильная работа инсулиновой системы может привести к развитию диабета.</description>
+ 1. Режим питания  Чистые промежутки Пищевое окно Пищевой хронотип   2. Отношения с едой  Ешьте, когда голодны Осознанная медленная еда Периодический фастинг   3. Что есть  1.</description>
     </item>
     
     <item>
@@ -118,8 +111,7 @@ Programming languages: Python, Go, Rust, Julia.</description>
       <pubDate>Sun, 19 Apr 2020 22:27:27 +0300</pubDate>
       
       <guid>https://idmitryz.github.io/posts/2020-04-19-start/</guid>
-      <description>This is not my first attempt to start a blog / channel in which I would write something (for example this telegram chanel). This time I approached everything in a more organized manner and I think that in the near and long time I will fix my thoughts / ideas / notes. The blog itself will be run in bliki format. I think this is the best option for me.
-If we talk about what the bliki consists of, then this is of course the feed itself, sorted by date of writing + a separate wiki page that contains a collection of various best or state-of-the-art practices (like ailev).</description>
+      <description>This is not my first attempt to start a blog / channel in which I would write something (for example this telegram chanel). This time I approached everything in a more organized manner and I think that in the near and long time I will fix my thoughts / ideas / notes.</description>
     </item>
     
     <item>

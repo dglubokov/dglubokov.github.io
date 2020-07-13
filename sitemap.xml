@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://idmitryz.github.io/tags/attention/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://idmitryz.github.io/bliki/base-health/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
@@ -74,6 +79,11 @@
   
   <url>
     <loc>https://idmitryz.github.io/bliki/base-health/sleep/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://idmitryz.github.io/tags/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -185,10 +195,6 @@
   
   <url>
     <loc>https://idmitryz.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://idmitryz.github.io/tags/</loc>
   </url>
   
 </urlset>
