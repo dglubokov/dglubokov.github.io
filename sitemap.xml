@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dmtgk.github.io/about/</loc>
+    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dmtgk.github.io/bliki/base-health/addictions/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
@@ -39,11 +44,6 @@
   
   <url>
     <loc>https://dmtgk.github.io/bliki/functional/</loc>
-    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dmtgk.github.io/about/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
