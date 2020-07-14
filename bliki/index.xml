@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bliki on idmitryz</title>
-    <link>https://idmitryz.github.io/bliki/</link>
-    <description>Recent content in Bliki on idmitryz</description>
+    <title>Bliki on dmtgk</title>
+    <link>https://dmtgk.github.io/bliki/</link>
+    <description>Recent content in Bliki on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://idmitryz.github.io/bliki/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dmtgk.github.io/bliki/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

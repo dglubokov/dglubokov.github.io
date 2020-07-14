@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on idmitryz</title>
-    <link>https://idmitryz.github.io/posts/</link>
-    <description>Recent content in Posts on idmitryz</description>
+    <title>Posts on dmtgk</title>
+    <link>https://dmtgk.github.io/posts/</link>
+    <description>Recent content in Posts on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Apr 2020 22:27:27 +0300</lastBuildDate>
     
-	<atom:link href="https://idmitryz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dmtgk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Start</title>
-      <link>https://idmitryz.github.io/posts/2020-04-19-start/</link>
+      <link>https://dmtgk.github.io/posts/2020-04-19-start/</link>
       <pubDate>Sun, 19 Apr 2020 22:27:27 +0300</pubDate>
       
-      <guid>https://idmitryz.github.io/posts/2020-04-19-start/</guid>
+      <guid>https://dmtgk.github.io/posts/2020-04-19-start/</guid>
       <description>This is not my first attempt to start a blog / channel in which I would write something (for example this telegram chanel). This time I approached everything in a more organized manner and I think that in the near and long time I will fix my thoughts / ideas / notes.</description>
     </item>
     
