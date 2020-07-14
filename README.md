@@ -1,2 +1,2 @@
-# idmitryz.github.io
+# dmtgk.github.io
 Blog / CV
