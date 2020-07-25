@@ -6,10 +6,25 @@
     <description>Recent content on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dmtgk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linear algebra</title>
+      <link>https://dmtgk.github.io/bliki/trans-thinking/mathematical/algebra/linear/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/trans-thinking/mathematical/algebra/linear/</guid>
+      <description>1 Vectors and vector spaces
+1 Vectors and vector spaces Vectors Vector definition (The definition for those who are first studying this concept)
+Vector is just one-dimensional array:
+$$ \begin{bmatrix} 1 \ 2 \end{bmatrix} $$
+or arrow for direction and length:
+  or shift transformations:
+  $$ T : \mathbb{R}^2 \rightarrow \mathbb{R}^2 $$</description>
+    </item>
     
     <item>
       <title>Algebraic geometry 1</title>
@@ -268,15 +283,6 @@ Computer Science: Algorithms.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dmtgk.github.io/bliki/trans-thinking/mathematical/algebra/groups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://dmtgk.github.io/bliki/trans-thinking/mathematical/algebra/linear/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dmtgk.github.io/bliki/trans-thinking/mathematical/algebra/linear/</guid>
       <description></description>
     </item>
     

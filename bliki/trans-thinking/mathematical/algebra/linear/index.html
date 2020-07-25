@@ -8,11 +8,17 @@
 	
 	
 	
-	<title> ｜ dmtgk</title>
+	<title>Linear algebra ｜ dmtgk</title>
 	
     
     
-    <meta name="description" content="" />
+    <meta name="description" content="1 Vectors and vector spaces
+1 Vectors and vector spaces Vectors Vector definition (The definition for those who are first studying this concept)
+Vector is just one-dimensional array:
+$$ \begin{bmatrix} 1 \ 2 \end{bmatrix} $$
+or arrow for direction and length:
+  or shift transformations:
+  $$ T : \mathbb{R}^2 \rightarrow \mathbb{R}^2 $$" />
     
 
     
@@ -105,10 +111,179 @@
             <div class="post_page">
                 <div class="post animate__animated animate__fadeInDown">
                     <div class="post_title post_detail_title">
-                        <h2><a href='/bliki/trans-thinking/mathematical/algebra/linear/'></a></h2>
-                        <span class="date">0001.01.01</span>
+                        <h2><a href='/bliki/trans-thinking/mathematical/algebra/linear/'>Linear algebra</a></h2>
+                        <span class="date">2020.07.23</span>
                     </div>
-                    <div class="post_content markdown"></div>
+                    <div class="post_content markdown"><p><a href="#1-vectors-and-vector-spaces">1 Vectors and vector spaces</a></p>
+<h2 id="1-vectors-and-vector-spaces">1 Vectors and vector spaces</h2>
+<h3 id="vectors">Vectors</h3>
+<h4 id="vector-definition">Vector definition</h4>
+<p>(The definition for those who are first studying this concept)</p>
+<p><strong>Vector</strong> is just one-dimensional array:</p>
+<p>$$
+\begin{bmatrix}
+1 \
+2
+\end{bmatrix}
+$$</p>
+<p>or arrow for direction and length:</p>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://lh3.googleusercontent.com/cjNWUbN7kI14MmPQDGcJKn3Pen_XOoKZAk8IbAlmbxJJhNXwHqCJLqK8xvBhqv4E58MOEqkpnIthxUIYXXe5=w1880-h891" data-caption="">
+        <img src="https://lh3.googleusercontent.com/cjNWUbN7kI14MmPQDGcJKn3Pen_XOoKZAk8IbAlmbxJJhNXwHqCJLqK8xvBhqv4E58MOEqkpnIthxUIYXXe5=w1880-h891" />
+    </a>
+</div>
+<p>or shift transformations:</p>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://lh6.googleusercontent.com/jG1hxS0n5By9hnYbAHPP5y7ZAgD5oCYOJd5a9XCqwY8YuyOGpyUomJK1y18_WJsSV9h6Ze_U9oe_GUWwxAEM=w1880-h891" data-caption="">
+        <img src="https://lh6.googleusercontent.com/jG1hxS0n5By9hnYbAHPP5y7ZAgD5oCYOJd5a9XCqwY8YuyOGpyUomJK1y18_WJsSV9h6Ze_U9oe_GUWwxAEM=w1880-h891" />
+    </a>
+</div>
+<p>$$ T : \mathbb{R}^2 \rightarrow \mathbb{R}^2 $$</p>
+<p>(General definition)</p>
+<p><strong>Vector</strong> is object of <strong>vector space</strong>.</p>
+<h4 id="vector-kinds">Vector kinds</h4>
+<ul>
+<li>коллинеарные, сонаправленные, компланарные, равные, ортогональные вектора</li>
+</ul>
+<h3 id="vector-operations">Vector operations</h3>
+<ul>
+<li>сумма векторов, произдведение вектора на число, линейная комбинация векторов</li>
+<li>скалярное произведение</li>
+<li>связь проекции и скалярного произведения</li>
+<li>направляющие косинусы</li>
+<li>свойства скалярного произведения</li>
+<li>выражение угла и длины вектора через скалярное произведение</li>
+<li>неравенство Коши-Буняковского через скалярное произведение и через координаты векоторов</li>
+<li>векторное произведение</li>
+<li>смешанное произведение</li>
+</ul>
+<h3 id="vector-spaces">Vector spaces</h3>
+<ul>
+<li>определение векторного пространства</li>
+<li>определение в.п. через модули и теоркат</li>
+<li>векторное подпространство</li>
+<li>сумма и пересечение подпространств</li>
+<li>прямая сумма подпространств</li>
+</ul>
+<h3 id="spanning-sets-and-linear-independence">Spanning sets and Linear independence</h3>
+<ul>
+<li>определение линейной зависимости и независимости</li>
+<li>алгоритм исследования векторов на линейную зависимость</li>
+<li>коллинеарность и линейная зависимость</li>
+<li>линейная оболочка</li>
+</ul>
+<h3 id="basis">Basis</h3>
+<ul>
+<li>базис</li>
+<li>правый и левый базис</li>
+<li>примеры базисов, ортонормированный базис</li>
+<li>размерность векторного пространства</li>
+<li>формула Грассмана</li>
+<li>выделение базиса из системы векторов</li>
+<li>нахождение какого-то базиса линейной оболочки</li>
+<li>дополнение линейно независимой системы до базиса всего пространства стандартными векторами</li>
+</ul>
+<h3 id="dimension-of-vector-space">Dimension of vector space</h3>
+<h2 id="linear-maps-and-matrices">Linear maps and matrices</h2>
+<p>Линейные отображения. Матрицы и операции</p>
+<ul>
+<li>определение линейного отображения</li>
+<li>ранг линейного отображения</li>
+<li>векторного пространство линейных отображений</li>
+<li>примеры линейных отображений</li>
+<li>ядро и образ линейного отображения</li>
+<li>теорема об изоморфизме</li>
+<li>матрица линейного оператора</li>
+<li>сложение матриц</li>
+<li>умножение матриц</li>
+<li>транспонирование матриц</li>
+<li>единичная матрица</li>
+<li>симметрические и асимметрические матрицы</li>
+<li>ступенчатый и канонический (улучшенный ступенчатый) вид матрицы</li>
+<li>обратная матрица</li>
+<li>линейные операторы</li>
+<li>произведение векторных пространств</li>
+<li>факторпространство</li>
+<li>линейный функционал</li>
+<li>двойственное пространство</li>
+<li>двойственный базис</li>
+<li>двойственное отображение</li>
+<li>инвариантное подпространство</li>
+<li>поиск матрицы оператора при смене базиса</li>
+<li>поиск суммы подпространств, заданных линейными оболочками</li>
+<li>пересечение подпространств, заданных линейными оболочками</li>
+<li>поиск базис образа и ядра линейного отображения</li>
+<li>существуюет ли линейный оператор на заданных векторах</li>
+</ul>
+<p>Определитель, его свойства и способы вычисления</p>
+<ul>
+<li>перестановки и подстановки</li>
+<li>инверсии и транспозиции</li>
+<li>знак и четность перестановки и подстановки</li>
+<li>геометрическое определение определителя как ориентированного объема</li>
+<li>определение определителя через перестановки</li>
+<li>Правило Сарюса</li>
+<li>Правило Лапласа</li>
+<li>метод конденсации Доджсона</li>
+<li>определитель диагональной матрицы</li>
+<li>определитель транспонированной матрицы</li>
+<li>определитель обратной матрицы</li>
+<li>определитель произведения матриц</li>
+<li>определитель матрицы, умноженной на константу</li>
+<li>пропорциональность строк матрицы означает что определитель равен нулю</li>
+<li>вычисления определителя через собственные числа</li>
+<li>след матрицы и его свойства</li>
+</ul>
+<p>Обратная матрица и способы ее нахождения</p>
+<ul>
+<li>через Алгебраическое дополнение</li>
+<li>через метод Гаусса-Жордана</li>
+</ul>
+<p>Специальные виды матриц и их свойства</p>
+<ul>
+<li>симметричная и ассиметричная</li>
+<li>диагональная</li>
+<li>Вандермонд</li>
+<li>Цикркулянт</li>
+<li>Тридиагональная</li>
+</ul>
+<p>СЛУ:</p>
+<ul>
+<li>виды СЛУ</li>
+<li>правило Крамера</li>
+<li>элементарные преобразования</li>
+<li>метод Гаусса</li>
+<li>ФСР СЛУ</li>
+<li>поиск ФСР однородной СЛУ</li>
+</ul>
+<p>Ранг матрицы и его свойства</p>
+<ul>
+<li>ранг матрицы</li>
+<li>теорема о базисном миноре</li>
+<li>теорема о ранге</li>
+<li>Теорема Кронекера-Капелли</li>
+<li>другие свойства (r&lt;n беск, r=n одно)</li>
+<li>вычисление ранга методом Гаусса</li>
+</ul>
+<p>Eigen things</p>
+<ul>
+<li>собственный вектор</li>
+<li>собственное значение</li>
+<li>характеристическое уравнение (многочлен)</li>
+<li>аннулирующий и минимальный многочлены</li>
+<li>теорема Гамильтона-Кэлли</li>
+<li>Жорданова матрица</li>
+<li>нильпотентные операторы</li>
+</ul>
+<p>Билинейные и квадратичные формы</p>
+<p>Евклидовы пространства</p>
+<p>Унитарность / Эрмитовость</p>
+<p>Тензоры</p>
+</div>
                     <div class="post_footer">
                         
                     </div>
