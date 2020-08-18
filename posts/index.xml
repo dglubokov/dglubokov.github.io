@@ -6,10 +6,29 @@
     <description>Recent content in Posts on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2020 22:27:27 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dmtgk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bliki structure</title>
+      <link>https://dmtgk.github.io/posts/2020-05-17-bliki/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/posts/2020-05-17-bliki/</guid>
+      <description>In the Bliki section you can see the sequence of links. What is it and why? As I said, I use Bliki ideas (blog + wiki) (https://www.martinfowler.com/bliki/WhatIsaBliki.html) in order to capture any knowledge, ideas and considerations in the usual Wikipedia format, but this capture will not be instantaneous, but gradual. I will gradually fill out my personal Wikipedia as I study any issue, and also modify if any new improved methods / approaches appear.</description>
+    </item>
+    
+    <item>
+      <title>Universals, Masks and Lists</title>
+      <link>https://dmtgk.github.io/posts/2020-05-07-mask/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/posts/2020-05-07-mask/</guid>
+      <description>I will use terms such as universals, lists, and masks very often. The author of such a triad, as I understand it now, is Roman Mikhailov.
+Universals are something that cannot be defined in any way, no matter how hard you strive, it is something that cannot be described. These can be various concepts, for example: metaphysics, being, etc.</description>
+    </item>
     
     <item>
       <title>Start</title>

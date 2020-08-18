@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bliki on dmtgk</title>
+    <link>https://dmtgk.github.io/tags/bliki/</link>
+    <description>Recent content in bliki on dmtgk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dmtgk.github.io/tags/bliki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bliki structure</title>
+      <link>https://dmtgk.github.io/posts/2020-05-17-bliki/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/posts/2020-05-17-bliki/</guid>
+      <description>In the Bliki section you can see the sequence of links. What is it and why? As I said, I use Bliki ideas (blog + wiki) (https://www.martinfowler.com/bliki/WhatIsaBliki.html) in order to capture any knowledge, ideas and considerations in the usual Wikipedia format, but this capture will not be instantaneous, but gradual. I will gradually fill out my personal Wikipedia as I study any issue, and also modify if any new improved methods / approaches appear.</description>
+    </item>
+    
+  </channel>
+</rss>

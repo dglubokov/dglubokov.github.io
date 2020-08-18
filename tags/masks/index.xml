@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>masks on dmtgk</title>
+    <link>https://dmtgk.github.io/tags/masks/</link>
+    <description>Recent content in masks on dmtgk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dmtgk.github.io/tags/masks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Universals, Masks and Lists</title>
+      <link>https://dmtgk.github.io/posts/2020-05-07-mask/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/posts/2020-05-07-mask/</guid>
+      <description>I will use terms such as universals, lists, and masks very often. The author of such a triad, as I understand it now, is Roman Mikhailov.
+Universals are something that cannot be defined in any way, no matter how hard you strive, it is something that cannot be described. These can be various concepts, for example: metaphysics, being, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
