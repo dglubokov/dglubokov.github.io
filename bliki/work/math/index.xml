@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fast math on dmtgk</title>
+    <link>https://dmtgk.github.io/bliki/work/math/</link>
+    <description>Recent content in Fast math on dmtgk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dmtgk.github.io/bliki/work/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1-lesson</title>
+      <link>https://dmtgk.github.io/bliki/work/math/1-lesson/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/1-lesson/</guid>
+      <description>Лекция 1. Множества. Аксиомы. Числовые множества. Функции. Уравнения. Как учить математику? 1.1. Множества и основания математики (Слайд 1. С чего начинается математика?)
+[Метаматематика]
+С чего начинается математика? На этот вопрос ответить непросто, так как он немного философский, метаматематический. Существуют так называемые основания математики. Они о том, на чем строится вся математика.</description>
+    </item>
+    
+  </channel>
+</rss>

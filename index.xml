@@ -6,10 +6,21 @@
     <description>Recent content on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dmtgk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1-lesson</title>
+      <link>https://dmtgk.github.io/bliki/work/math/1-lesson/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/1-lesson/</guid>
+      <description>Лекция 1. Множества. Аксиомы. Числовые множества. Функции. Уравнения. Как учить математику? 1.1. Множества и основания математики (Слайд 1. С чего начинается математика?)
+[Метаматематика]
+С чего начинается математика? На этот вопрос ответить непросто, так как он немного философский, метаматематический. Существуют так называемые основания математики. Они о том, на чем строится вся математика.</description>
+    </item>
     
     <item>
       <title>Linear algebra</title>
