@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Снова про структуру блога</title>
+      <link>https://dmtgk.github.io/posts/2020-09-15/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/posts/2020-09-15/</guid>
+      <description>Я очень долго думал над тем, какой язык использовать для записей блога. Спрашивал даже у ailev какой формат лучше. Он ответил, что особо не заморачивается по поводу языка, так как его блог для именно как лабораторный журнал, он заполняет его для себя в первую очередь, а также ему важна скорость фиксирования мысли, а не скорость распространения его идей.</description>
+    </item>
+    
+    <item>
       <title>Linear algebra</title>
       <link>https://dmtgk.github.io/bliki/trans-thinking/mathematical/algebra/linear/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
