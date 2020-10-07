@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ru on dmtgk</title>
-    <link>https://dmtgk.github.io/tags/ru/</link>
-    <description>Recent content in ru on dmtgk</description>
+    <title>senescence on dmtgk</title>
+    <link>https://dmtgk.github.io/tags/senescence/</link>
+    <description>Recent content in senescence on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/tags/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/tags/senescence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Про исследования старения</title>
       <link>https://dmtgk.github.io/posts/2020-10-07-aging/</link>
@@ -15,15 +15,6 @@
       <guid>https://dmtgk.github.io/posts/2020-10-07-aging/</guid>
       <description>Заметил тенденцию увеличения интереса к теме старения (https://trends.google.com/trends/explore?date=all&amp;amp;q=%2Fm%2F012pdz), однако это увеличение крайне медленное, а в 2020 году вообще стало снижаться из-за пандемии, а зря, ведь COVID-19 не смертелен для молодых людей (https://paperchase-aging.s3-us-west-1.amazonaws.com/pdf/daP9mNW8HiYYWeEj2.pdf). Но, важно помнить, старение &amp;ndash; главная причина смерти людей (https://www.cell.com/action/showPdf?pii=S0092-8674%2814%2901366-X).
  Вокруг научного понимания смерти интереса еще меньше. Проблема здесь &amp;ndash; неоднозначность критериев определения биологической смерти.</description>
-    </item>
-    
-    <item>
-      <title>Снова про структуру блога</title>
-      <link>https://dmtgk.github.io/posts/2020-09-15/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dmtgk.github.io/posts/2020-09-15/</guid>
-      <description>Я очень долго думал над тем, какой язык использовать для записей блога. Спрашивал даже у ailev какой формат лучше. Он ответил, что особо не заморачивается по поводу языка, так как его блог для именно как лабораторный журнал, он заполняет его для себя в первую очередь, а также ему важна скорость фиксирования мысли, а не скорость распространения его идей.</description>
     </item>
     
   </channel>

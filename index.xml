@@ -6,10 +6,16 @@
     <description>Recent content on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://dmtgk.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Про исследования старения</title>
+      <link>https://dmtgk.github.io/posts/2020-10-07-aging/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/posts/2020-10-07-aging/</guid>
+      <description>Заметил тенденцию увеличения интереса к теме старения (https://trends.google.com/trends/explore?date=all&amp;amp;q=%2Fm%2F012pdz), однако это увеличение крайне медленное, а в 2020 году вообще стало снижаться из-за пандемии, а зря, ведь COVID-19 не смертелен для молодых людей (https://paperchase-aging.s3-us-west-1.amazonaws.com/pdf/daP9mNW8HiYYWeEj2.pdf). Но, важно помнить, старение &amp;ndash; главная причина смерти людей (https://www.cell.com/action/showPdf?pii=S0092-8674%2814%2901366-X).
+ Вокруг научного понимания смерти интереса еще меньше. Проблема здесь &amp;ndash; неоднозначность критериев определения биологической смерти.</description>
+    </item>
     
     <item>
       <title>1-lesson</title>
