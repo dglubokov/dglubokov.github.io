@@ -6,16 +6,116 @@
     <description>Recent content in Fast math on dmtgk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/bliki/work/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/bliki/work/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1-lesson</title>
-      <link>https://dmtgk.github.io/bliki/work/math/1-lesson/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <title>10-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/10-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dmtgk.github.io/bliki/work/math/1-lesson/</guid>
-      <description>Лекция 1. Множества. Аксиомы. Числовые множества. Функции. Уравнения. Как учить математику? 1.1. Множества и основания математики (Слайд 1. С чего начинается математика?)
-[Метаматематика]
-С чего начинается математика? На этот вопрос ответить непросто, так как он немного философский, метаматематический. Существуют так называемые основания математики. Они о том, на чем строится вся математика.</description>
+      <guid>https://dmtgk.github.io/bliki/work/math/10-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/3-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/3-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/4-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/4-chapter/</guid>
+      <description>Рекомендуемая литература
+ И.М. Гельфанд. Тригонометрия.  </description>
+    </item>
+    
+    <item>
+      <title>5-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/5-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/5-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/6-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/6-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/7-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/7-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/8-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/8-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9-chapter</title>
+      <link>https://dmtgk.github.io/bliki/work/math/9-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/9-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 1. Множества. Функции. Числовые множества. Аксиомы. Уравнения. Как учить математику?</title>
+      <link>https://dmtgk.github.io/bliki/work/math/1-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/1-chapter/</guid>
+      <description>1.1. Множества и основания математики 1.2. Функции/Отображения 1.3. Числовые множества 1.4. Аксиомы и структуры. Немного теории категорий. 1.5. Уравнения 1.6. Как учить и понимать математику?  Рекомендуемая литература
+ Н.Я. Виленкин. Рассказы о множествах. И.М. Гельфанд. Функции и графики.  1.1. Множества и основания математики [Метаматематика]
+ С чего начинается математика?</description>
+    </item>
+    
+    <item>
+      <title>Глава 2. Стандартная работа с числами - дроби, степени, логарифмы. Решение простых уравнений.</title>
+      <link>https://dmtgk.github.io/bliki/work/math/2-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/2-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Листок 1.</title>
+      <link>https://dmtgk.github.io/bliki/work/math/1-tasks/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/math/1-tasks/</guid>
+      <description>Укажите связи между множествами и элементами (включение, принадлежность, равенство, неравенство):
+A={1,2,3,4}
+B={1,2}
+C={{1,2},3,4}
+D={3,4}
+  Докажите счетность следующих числовых множеств: $\mathbb{P}$, $\mathbb{Z}$, $\mathbb{Q}$
+  Докажите несчетность: $\mathbb{R}$, $\mathbb{I}$, $\mathbb{C}$
+  Установите равномощность отрезка [0,1] и числовой прямой.
+  Доказать тождества:
+ a) $A \backslash (A \backslash C) = A \cap B$ b) $A = (A \backslash B)\cup (A \cap B)$ c) $A \backslash B = A \Delta B (A \cap B)$ d) $(A \cup B) \times D = (A \times D) \cup (B \times D)$ e) $(A \backslash B) \times D = (A \times D) \backslash (B \times D)$ f) $(A \cup B) \times (D \cup E) = (A \times D) \cup (B \times D) \cup (A \times E) \cup (B \times E)$    Определите тип отношения:</description>
     </item>
     
   </channel>

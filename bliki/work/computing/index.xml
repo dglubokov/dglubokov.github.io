@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational thinking on dmtgk</title>
+    <link>https://dmtgk.github.io/bliki/work/computing/</link>
+    <description>Recent content in Computational thinking on dmtgk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/bliki/work/computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Глава 1. Как работает компьютер?</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/1-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/1-chapter/</guid>
+      <description>простой заход пробежка по разным уровням общая картина в виде иерархии  Что такое компьютер? С английского computer &amp;ndash; вычислитель, от глагола compute &amp;ndash; вычислять. Следовательно можно сказать, что компьютер &amp;ndash; штука, работающая с числами.
+В самом простом виде, компьютер &amp;ndash; это набор связанных между собой компонентов, таких как процессор, оперативная память, постоянная память, шины и интерфейсы между ними.</description>
+    </item>
+    
+    <item>
+      <title>Глава 10. Решение ЕГЭ</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/10-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/10-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 2. Физика компьютера</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/2-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/2-chapter/</guid>
+      <description> механика электричества простые электрические компоненты транзистор  </description>
+    </item>
+    
+    <item>
+      <title>Глава 3. Комбинационная логика</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/3-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/3-chapter/</guid>
+      <description> составление из транзисторов логических операций работа с логическими операциями  </description>
+    </item>
+    
+    <item>
+      <title>Глава 4. Последовательная логика и цифровые функциональные узлов</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/4-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/4-chapter/</guid>
+      <description> триггеры сумматоры, шифраторы, дешифраторы, АЛУ, оператива  </description>
+    </item>
+    
+    <item>
+      <title>Глава 5. Микроархитектура, архитектура, ассемблер</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/5-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/5-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 6. Иерархия памяти, ввод-вывод</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/6-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/6-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 7. Операционные системы</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/7-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/7-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 8. Прикладное программирование</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/8-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/8-chapter/</guid>
+      <description> Си, Python, JavaScript как лидирующие языки (компиляция, интерпретация) Go, Rust, Julia как новые лидирующие языки парадигмы программирования реализация алгоритмов и структур данных на разных языках  </description>
+    </item>
+    
+    <item>
+      <title>Глава 9. Компьютерные сети</title>
+      <link>https://dmtgk.github.io/bliki/work/computing/9-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/work/computing/9-chapter/</guid>
+      <description> понятие протокола и обзор иерархий протоколов описание TCP/IP стека  </description>
+    </item>
+    
+  </channel>
+</rss>
