@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dmtgk.github.io/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/tags/intelligence/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/tags/mind/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/tags/physics/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/posts/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/tags/ru/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/tags/strategy/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/tags/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/posts/2020-11-01-myths/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dmtgk.github.io/posts/2020-11-01-mind/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dmtgk.github.io/bliki/work/math/10-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
@@ -44,11 +94,6 @@
   
   <url>
     <loc>https://dmtgk.github.io/bliki/work/computing/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dmtgk.github.io/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,27 +188,12 @@
   </url>
   
   <url>
-    <loc>https://dmtgk.github.io/posts/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dmtgk.github.io/tags/ru/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dmtgk.github.io/tags/science/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dmtgk.github.io/tags/senescence/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dmtgk.github.io/tags/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
