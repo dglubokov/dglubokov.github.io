@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fast math on dmtgk</title>
+    <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/</link>
+    <description>Recent content in Fast math on dmtgk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10-chapter</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/10-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/10-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6-chapter</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/6-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/6-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7-chapter</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/7-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/7-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8-chapter</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/8-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/8-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9-chapter</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/9-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/9-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 1. Множества. Функции. Числовые множества. Аксиомы. Уравнения. Как учить математику?</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/1-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/1-chapter/</guid>
+      <description>1.1. Множества и основания математики 1.2. Логические операции, операции со множествами 1.3. Функции/Отображения 1.4. Числовые множества 1.5. Как учить и понимать математику?  Рекомендуемая литература  Н.Я. Виленкин. Рассказы о множествах. И.М. Гельфанд. Функции и графики. Вавилов Не совсем наивная теория множеств. Голдблатт Топосы.  1.1. Множества и основания математики Метаматематика | Основания математики</description>
+    </item>
+    
+    <item>
+      <title>Глава 2. Работа с числами - дроби, степени, логарифмы. Решение простых уравнений.</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/2-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/2-chapter/</guid>
+      <description>1.1. Операции над числами  сложение, вычитание как обратная операция умножение, деление как обратная операция возведение в степень, корень как обратная операция логарифмы  1.2. Уравнения  понятие уравнения многочлены уравнения второй степени уравнения третьей степени уравнения четвертой степени уравнения пятой степени и выше  </description>
+    </item>
+    
+    <item>
+      <title>Глава 3. Планиметрия и стереометрия.</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/3-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/3-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Глава 4. Тригонометрия.</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/4-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/4-chapter/</guid>
+      <description>Рекомендуемая литература
+ И.М. Гельфанд. Тригонометрия.  </description>
+    </item>
+    
+    <item>
+      <title>Глава 5. Уравнения с параметром.</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/5-chapter/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/5-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Листок 1.</title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/1-tasks/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/1-tasks/</guid>
+      <description>Укажите связи между множествами и элементами (включение, принадлежность, равенство, неравенство):
+A={1,2,3,4}
+B={1,2}
+C={{1,2},3,4}
+D={3,4}
+  Докажите счетность следующих числовых множеств: $\mathbb{P}$, $\mathbb{Z}$, $\mathbb{Q}$
+  Докажите несчетность: $\mathbb{R}$, $\mathbb{I}$, $\mathbb{C}$
+  Установите равномощность отрезка [0,1] и числовой прямой.
+  Доказать тождества:
+ a) $A \backslash (A \backslash C) = A \cap B$ b) $A = (A \backslash B)\cup (A \cap B)$ c) $A \backslash B = A \Delta B (A \cap B)$ d) $(A \cup B) \times D = (A \times D) \cup (B \times D)$ e) $(A \backslash B) \times D = (A \times D) \backslash (B \times D)$ f) $(A \cup B) \times (D \cup E) = (A \times D) \cup (B \times D) \cup (A \times E) \cup (B \times E)$    Определите тип отношения:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/2-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/2-tasks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/3-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/3-tasks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/4-tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/4-tasks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

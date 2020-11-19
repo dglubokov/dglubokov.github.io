@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="" />
+	
+	
+	
+	<title>Algebraic geometry 1 ｜ dmtgk</title>
+	
+    
+    
+    <meta name="description" content="Системы координаты и уравнения множеств
+ радиус-вектор точки декартова система координат аффинная система координат полярная система координат сферическая система координат связь полярной и декартовой формула перехода координат вектора при смене базиса формула перрехода координат вектора при повороте прямоугольной системы координат на угол \alpha формула перехода координат вектора при параллельном переносе алгебраическое уравнение алгебраическая кривая порядка n алгебраическая поверхность порядка n цилиндр и поверхность вращения параметрическое и векторное параметрическое уравнение кривой и поверхности параметрические уравнения прямой, окружности, винтовой линии параметрические уравнения плоскости и конуса  Прямая и плоскость" />
+    
+
+    
+    
+    <meta name="keywords" content="dmtgk, glubokov, biotech, blog" />
+    
+
+	
+    
+    <link rel="shortcut icon" href="https://dmtgk.github.io/images/favicon.ico" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="https://dmtgk.github.iocss/normalize.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://dmtgk.github.io/css/zozo.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://dmtgk.github.io/css/highlight.css" />
+
+    
+    
+</head>
+
+<body>
+    <div class="main animate__animated animate__fadeInDown">
+        <div class="nav_container animated fadeInDown">
+    <div class="site_nav" id="site_nav">
+        <ul>
+            
+            <li>
+                <a href="/about/">about</a>
+            </li>
+            
+            <li>
+                <a href="/">posts</a>
+            </li>
+            
+            <li>
+                <a href="/bliki/">bliki</a>
+            </li>
+            
+            <li>
+                <a href="/tags/">tags</a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="menu_icon">
+        <a id="menu_icon"><i class="ri-menu-line"></i></a>
+    </div>
+</div>
+        <div class="header animated fadeInDown">
+    <div class="site_title_container">
+        <div class="site_title">
+            <h1>
+                <a href="https://dmtgk.github.io">
+                    <span>dmtgk</span>
+                </a>
+            </h1>
+        </div>
+        <div class="description">
+            <p class="sub_title"></p>
+            <div class="my_socials">
+                
+                
+                <a href="https://github.com/dmtgk" title="github" target="_blank"><i class="ri-github-fill"></i></a>
+                
+                
+                
+                <a href="https://www.instagram.com/dmitrydeliberate/" title="instagram" target="_blank"><i class="ri-instagram-fill"></i></a>
+                
+                
+                
+                <a href="https://www.linkedin.com/in/dmitry-glubokov-aa38311a6/" title="linkedin" target="_blank"><i class="ri-linkedin-fill"></i></a>
+                
+                
+                
+                <a href="https://stackoverflow.com/users/11982188/glubokov" title="stack-overflow" target="_blank"><i class="ri-stack-overflow-fill"></i></a>
+                
+                
+                
+                <a href="https://t.me/dmtgk" title="telegram" target="_blank"><i class="ri-telegram-fill"></i></a>
+                
+                
+                <a href="https://dmtgk.github.io/index.xml" type="application/rss+xml" title="rss" target="_blank"><i
+                        class="ri-rss-fill"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="content">
+            <div class="post_page">
+                <div class="post animate__animated animate__fadeInDown">
+                    <div class="post_title post_detail_title">
+                        <h2><a href='/bliki/3-trans-thinking/mathematical/algebra/algeom-1/'>Algebraic geometry 1</a></h2>
+                        <span class="date">2020.07.16</span>
+                    </div>
+                    <div class="post_content markdown"><p>Системы координаты и уравнения множеств</p>
+<ul>
+<li>радиус-вектор точки</li>
+<li>декартова система координат</li>
+<li>аффинная система координат</li>
+<li>полярная система координат</li>
+<li>сферическая система координат</li>
+<li>связь полярной и декартовой</li>
+<li>формула перехода координат вектора при смене базиса</li>
+<li>формула перрехода координат вектора при повороте прямоугольной системы координат на угол \alpha</li>
+<li>формула перехода координат вектора при параллельном переносе</li>
+<li>алгебраическое уравнение</li>
+<li>алгебраическая кривая порядка n</li>
+<li>алгебраическая поверхность порядка n</li>
+<li>цилиндр и поверхность вращения</li>
+<li>параметрическое и векторное параметрическое уравнение кривой и поверхности</li>
+<li>параметрические уравнения прямой, окружности, винтовой линии</li>
+<li>параметрические уравнения плоскости и конуса</li>
+</ul>
+<p>Прямая и плоскость</p>
+<ul>
+<li>уравнения прямой на плоскости, заданной точкой и вектором, парой точек в векторной и координатной форме</li>
+<li>каноническое уравнение прямой на плоскости</li>
+<li>общее линейное уравнение прямой на плоскости</li>
+<li>уравнение плоскости, заданное точкой и парой векторов, или точкой и нормальным вектором, или 3 точками - в векторной и координатной форме</li>
+<li>общее уравнение плоскости</li>
+<li>переход от общего линейного уравнения плоскости к параметрическому</li>
+<li>переход от векторного к общему линейномм уравнению плоскости</li>
+<li>общая теорема об уравнении плоскости</li>
+<li>основная теорема об уравнении прямой на плоскости</li>
+<li>признак параллельности плоскостей</li>
+<li>признак ортогональности 2 плоскостей</li>
+<li>нахождение угла между плоскостями по их уравнениям</li>
+<li>признаки параллельности, перпендикулярности прямых на плоскости</li>
+<li>угол между 2 прямыми на плоскости</li>
+<li>связь углового коэффициента пярмой и ее направляющего вектора</li>
+<li>уравнение прямой в пространстве, заданной точкой и вектором или парой точек,  в векторной и координатной форме</li>
+<li>канонические уравнения прямой</li>
+<li>переход от уравнения прямой, заданной пересечением 2 плоскостей, к каноническому уравнению, обратный переход</li>
+<li>признаки параллельности и перпендикулярности прямых в пространстве</li>
+<li>угол между между прямыми в пространстве</li>
+<li>расстояние от точки до прямой на плоскости и в пространстве, от прямой до плоскости</li>
+<li>расстояние между 2 плоскостями</li>
+<li>расстояние между прямой и плоскостью</li>
+<li>расстояние между 2 прямыми</li>
+</ul>
+<p>Линии второго порядка</p>
+<ul>
+<li>определение линии второго порядка</li>
+<li>виды линий второго порядка и их уравнения</li>
+<li>центр симметрии, ось симметрии</li>
+<li>фокальное свойство</li>
+<li>оптическое свойство</li>
+<li>софокусные линии</li>
+<li>уравнения асимптот</li>
+<li>общие точки прямой с линией второго порядка</li>
+<li>уравнения касательных</li>
+</ul>
+<p>Поверхности второго порядка</p>
+<ul>
+<li>определение алгебраической поверхности второго порядка</li>
+<li>поверхность вращения</li>
+<li>цилиндр и конус</li>
+<li>виды поверхностей второго порядка и их уравнения</li>
+<li>прямолинейная образующая поверхности</li>
+<li>вид общего множества точек плоскости и поверхности</li>
+</ul>
+<p>Аффинные преобразования</p>
+<ul>
+<li>вырожденное и невырожденное преобразование</li>
+<li>принцип сохранения координат</li>
+<li>аффинное преобразование плоскости</li>
+<li>взаимнооднозначность аффинного преобразования</li>
+<li>формулы, задающие аффинные преобразования</li>
+<li>свойства аффинных преобразований</li>
+<li>определитель аффинного преобразования</li>
+<li>независимость определителя а.п. от системы координат</li>
+<li>движение (ортогональное преобразование)</li>
+<li>обратное преобразование и произведение преобразований</li>
+<li>разложение произвольного аффинного преобразования в произведение</li>
+<li>эквивалентные преобразования</li>
+</ul>
+</div>
+                    <div class="post_footer">
+                        
+                    </div>
+                </div>
+                
+                
+                <div class="doc_comments"></div>
+                
+            </div>
+        </div>
+    </div>
+    <a id="back_to_top" href="#" class="back_to_top"><i class="ri-arrow-up-s-line"></i></a>
+    <footer class="footer">
+    <div class="powered_by">
+        <a href="https://varkai.com">Designed by VarKai,</a>
+        <a href="http://www.gohugo.io/">Proudly published with Hugo</a>
+    </div>
+
+    <div class="footer_slogan">
+        <span>Мир | Труд | Трансгуманизм</span>
+    </div>
+</footer>
+    <script src="https://dmtgk.github.io/js/jquery-3.5.1.min.js"></script>
+<link href="https://dmtgk.github.io/css/fancybox.min.css" rel="stylesheet">
+<script src="https://dmtgk.github.io/js/fancybox.min.js"></script>
+<script src="https://dmtgk.github.io/js/zozo.js"></script>
+
+
+<script type="text/javascript" async
+    src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\[\[', '\]\]']],
+                processEscapes: true,
+                processEnvironments: true,
+                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                TeX: {
+                    equationNumbers: { autoNumber: "AMS" },
+                    extensions: ["AMSmath.js", "AMSsymbols.js"]
+                }
+            }
+        });
+
+        MathJax.Hub.Queue(function () {
+            
+            
+            
+            var all = MathJax.Hub.getAllJax(), i;
+            for (i = 0; i < all.length; i += 1) {
+                all[i].SourceElement().parentNode.className += ' has-jax';
+            }
+        });
+    </script>
+
+<style>
+    code.has-jax {
+        font: inherit;
+        font-size: 100%;
+        background: inherit;
+        border: inherit;
+        color: #515151;
+    }
+</style>
+
+
+
+</body>
+
+</html>

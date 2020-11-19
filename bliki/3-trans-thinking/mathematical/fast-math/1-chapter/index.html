@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="" />
+	
+	
+	
+	<title>Глава 1. Множества. Функции. Числовые множества. Аксиомы. Уравнения. Как учить математику? ｜ dmtgk</title>
+	
+    
+    
+    <meta name="description" content="1.1. Множества и основания математики 1.2. Логические операции, операции со множествами 1.3. Функции/Отображения 1.4. Числовые множества 1.5. Как учить и понимать математику?  Рекомендуемая литература  Н.Я. Виленкин. Рассказы о множествах. И.М. Гельфанд. Функции и графики. Вавилов Не совсем наивная теория множеств. Голдблатт Топосы.  1.1. Множества и основания математики Метаматематика | Основания математики" />
+    
+
+    
+    
+    <meta name="keywords" content="dmtgk, glubokov, biotech, blog" />
+    
+
+	
+    
+    <link rel="shortcut icon" href="https://dmtgk.github.io/images/favicon.ico" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="https://dmtgk.github.iocss/normalize.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.min.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://dmtgk.github.io/css/zozo.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://dmtgk.github.io/css/highlight.css" />
+
+    
+    
+</head>
+
+<body>
+    <div class="main animate__animated animate__fadeInDown">
+        <div class="nav_container animated fadeInDown">
+    <div class="site_nav" id="site_nav">
+        <ul>
+            
+            <li>
+                <a href="/about/">about</a>
+            </li>
+            
+            <li>
+                <a href="/">posts</a>
+            </li>
+            
+            <li>
+                <a href="/bliki/">bliki</a>
+            </li>
+            
+            <li>
+                <a href="/tags/">tags</a>
+            </li>
+            
+        </ul>
+    </div>
+    <div class="menu_icon">
+        <a id="menu_icon"><i class="ri-menu-line"></i></a>
+    </div>
+</div>
+        <div class="header animated fadeInDown">
+    <div class="site_title_container">
+        <div class="site_title">
+            <h1>
+                <a href="https://dmtgk.github.io">
+                    <span>dmtgk</span>
+                </a>
+            </h1>
+        </div>
+        <div class="description">
+            <p class="sub_title"></p>
+            <div class="my_socials">
+                
+                
+                <a href="https://github.com/dmtgk" title="github" target="_blank"><i class="ri-github-fill"></i></a>
+                
+                
+                
+                <a href="https://www.instagram.com/dmitrydeliberate/" title="instagram" target="_blank"><i class="ri-instagram-fill"></i></a>
+                
+                
+                
+                <a href="https://www.linkedin.com/in/dmitry-glubokov-aa38311a6/" title="linkedin" target="_blank"><i class="ri-linkedin-fill"></i></a>
+                
+                
+                
+                <a href="https://stackoverflow.com/users/11982188/glubokov" title="stack-overflow" target="_blank"><i class="ri-stack-overflow-fill"></i></a>
+                
+                
+                
+                <a href="https://t.me/dmtgk" title="telegram" target="_blank"><i class="ri-telegram-fill"></i></a>
+                
+                
+                <a href="https://dmtgk.github.io/index.xml" type="application/rss+xml" title="rss" target="_blank"><i
+                        class="ri-rss-fill"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="content">
+            <div class="post_page">
+                <div class="post animate__animated animate__fadeInDown">
+                    <div class="post_title post_detail_title">
+                        <h2><a href='/bliki/3-trans-thinking/mathematical/fast-math/1-chapter/'>Глава 1. Множества. Функции. Числовые множества. Аксиомы. Уравнения. Как учить математику?</a></h2>
+                        <span class="date">2020.10.09</span>
+                    </div>
+                    <div class="post_content markdown"><ul>
+<li><a href="#11-%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8">1.1. Множества и основания математики</a></li>
+<li><a href="#12-%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D1%81%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8">1.2. Логические операции, операции со множествами</a></li>
+<li><a href="#13-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F">1.3. Функции/Отображения</a></li>
+<li><a href="#14-%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0">1.4. Числовые множества</a></li>
+<li><a href="#15-%D0%BA%D0%B0%D0%BA-%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B8-%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D1%8C-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D1%83">1.5. Как учить и понимать математику?</a></li>
+</ul>
+<h2 id="рекомендуемая-литература">Рекомендуемая литература</h2>
+<ul>
+<li>Н.Я. Виленкин. Рассказы о множествах.</li>
+<li>И.М. Гельфанд. Функции и графики.</li>
+<li>Вавилов Не совсем наивная теория множеств.</li>
+<li>Голдблатт Топосы.</li>
+</ul>
+<h1 id="11-множества-и-основания-математики">1.1. Множества и основания математики</h1>
+<p><strong><a href="https://en.wikipedia.org/wiki/Metamathematics">Метаматематика</a> | <a href="https://en.wikipedia.org/wiki/Foundations_of_mathematics">Основания математики</a></strong></p>
+<h1 id="heading"></h1>
+<p>С чего начинается математика? На этот вопрос ответить непросто, так как он немного философский, <strong>метаматематический</strong>. Существуют так называемые <strong>основания математики</strong>. Они о том, на чем строится вся математика. Сегодня никто точно не сможет сказать какая теория претендует на основания в полной мере. В основном в современной математике пользуются языком теории множеств, строящейся на основе математической логики, о которой я расскажу в дальнейшем, а также теории категорий, о которой я расскажу совсем чуть-чуть.</p>
+<h1 id="heading-1"></h1>
+<p><strong><a href="https://en.wikipedia.org/wiki/Set_(mathematics)">Множество</a> | <a href="https://en.wikipedia.org/wiki/Set_theory">Теория множеств</a></strong></p>
+<h1 id="heading-2"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://www.survivingateacherssalary.com/wp-content/uploads/2013/09/LEGO-Deluxe-set.png" data-caption="">
+        <img src="https://www.survivingateacherssalary.com/wp-content/uploads/2013/09/LEGO-Deluxe-set.png" />
+    </a>
+</div>
+<h1 id="heading-3"></h1>
+<p>Представьте конструктор, например Лего, как набор деталей, из которых вы можете сконструировать что захотите, у вас нет ограничений, только правила, по которым вы будете что-то строить. Так вот основания математики имеют различные варианты конструкторов (разные Лего) &ndash; теорий, но каждый радикально отличается от другого, и, кроме этого, имеет свои собственные правила и способы построения. Теорию множеств можно назвать самым популярным конструктором.</p>
+<h1 id="heading-4"></h1>
+<p>Для начала просто рассмотрим внешний вид нашего конструктора, под названием теория множеств. Наш конструктор состоит из деталей &ndash; множеств. Что такое множество? Многие считают, что полного определения для этого понятия не существует, оно является неопределяемым, однако его можно понять и прочувствовать.</p>
+<p><strong><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F">Абстракция</a> | <a href="https://gtmarket.ru/concepts/7009">Абстрагирование</a></strong></p>
+<h1 id="heading-5"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://computersciencewiki.org/images/thumb/e/e2/Abstract_heart.png/350px-Abstract_heart.png" data-caption="">
+        <img src="https://computersciencewiki.org/images/thumb/e/e2/Abstract_heart.png/350px-Abstract_heart.png" />
+    </a>
+</div>
+<p>Для начала попробуем научиться мыслить абстрактно, то есть убирать в мыслях все лишнее, оставляя только то, что мы рассматриваем, и что нам интересно.</p>
+<p>Человеческий разум способен на многое. Мы можем у себя в голове представлять что угодно, придумывать, размышлять. Обращаюсь к вашим способностям. Представьте пустое пространство, что-то вроде черного пустого помещения, ничего неимеющего, как пространство в каком-нибудь 3D редакторе. Это всего лишь абстракция, не математика, просто удобный способ попытаться понять что такое множество.</p>
+<h1 id="heading-6"></h1>
+<p><strong><a href="https://en.wikipedia.org/wiki/Empty_set">Пустое множество</a> | <a href="https://en.wikipedia.org/wiki/Empty_set#/media/File:Empty_set.svg">Обозначение пустого множества</a></strong></p>
+<h1 id="heading-7"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/box.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/box.png" />
+    </a>
+</div>
+<h1 id="heading-8"></h1>
+<p>Теперь представьте как из неоткуда появляется пустая белая коробка.
+Пустая коробка &ndash; это пустое множество, в нем ничего нет, но все же это что-то, какой-то объект.
+Обозначается пустое множество <strong>следующим знаком</strong>: $\varnothing$ или просто {}.</p>
+<h1 id="heading-9"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/box-ball.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/box-ball.png" />
+    </a>
+</div>
+<h1 id="heading-10"></h1>
+<p>Теперь положим туда что-нибудь. Например бильярдный шар. Теперь это множество с одним элементом, в нашем случае с бильярдным шаром.
+Вытащим этот шар. Теперь наша коробка-множество пустая.</p>
+<h1 id="heading-11"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/box-planets.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/box-planets.png" />
+    </a>
+</div>
+<h1 id="heading-12"></h1>
+<p>Давайте положим туда все планеты солнечной системы. Можете мысленно представить как Земля, Марс, Юпитер и так далее вместе входят в коробку. Теперь наше множество состоит из планет Солнечной системы. Хорошо, мы умудрились засунуть планеты в коробку в своей голове, надеюсь вы это хорошо представили.</p>
+<h1 id="heading-13"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/box-inside.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/box-inside.png" />
+    </a>
+</div>
+<h1 id="heading-14"></h1>
+<p>Избавимся от планет. Можно засунуть в нашу коробку что угодно, любые объекты, и при этом они не обязательно должны иметь какие-то общие свойства.</p>
+<h1 id="heading-15"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/box-free.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/box-free.png" />
+    </a>
+</div>
+<h1 id="heading-16"></h1>
+<p><strong><a href="https://en.wikipedia.org/wiki/Element_(mathematics)">Элемент множества</a></strong></p>
+<h1 id="heading-17"></h1>
+<p>Например, множество, состоящее из двух элементов: вилка и Солнце. Элементы множества могут быть какими захотите.
+Но я привел в пример только физические/реальные объекты. Однако в нашу абстрактную коробочку можно складывать математические объекты: числа, операции, функции, пространства, другие множества!</p>
+<h1 id="heading-18"></h1>
+<p><strong>Обозначения множеств | Обозначения элементов</strong></p>
+<h1 id="heading-19"></h1>
+<p>Для удобства множество обозначают каким-нибудь символом. Обычно это латинские заглавные буквы: A, B, C&hellip; Однако мы могли бы назвать наше множество как захочется, например, &ldquo;белая коробка&rdquo;, или символом #, или цветом, но все же удобнее работать с привычными нам буквами, ведь все время записывать &ldquo;белая коробка&rdquo; это долго, да и в белую трехмерную коробку вы на вряд ли поместите четырехмерную фигуру (на самом деле в математике даже так можно, но это уже отдельный разговор и не относится к нашей метафоре). В общем множества обычно обозначают буквами. Объекты, которые входят в множество можно также обозначать какими-нибудь символами, главное чтобы мы знали о нашем соглашении по названиям рассматриваемых объектов.
+Например, это могут быть буквы, или числа, или цвета, как нам будет удобно, так и обозначим. Это как наклейка на объект, наклейка на белую коробку (множество А, множество B, &hellip;) и на элементы внутри нее (буква а, число 1, операция +).</p>
+<h1 id="heading-20"></h1>
+<p>Итак, множества могут обозначаться, например, следующим образом:
+А = {а, 1, +}
+B = {a, a, a} = {a}
+Во множестве повторяющейся элемент можно записывать один раз, нам важен один экземпляр какого-либо объекта, повторение не даёт ничего. Однако можно пользоваться такой структурой, как мультимножество. В такой структуре уже будет {а, а, а} ≠ {а}.</p>
+<h1 id="heading-21"></h1>
+<p><strong><a href="https://en.wikipedia.org/wiki/Finite_set">Конечные множества</a> | <a href="https://en.wikipedia.org/wiki/Infinity">Бесконечность</a></strong></p>
+<h1 id="heading-22"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://www.freepnglogos.com/uploads/infinity-symbol-png/infinity-symbol-clipart-download-best-infinity-14.png" data-caption="">
+        <img src="https://www.freepnglogos.com/uploads/infinity-symbol-png/infinity-symbol-clipart-download-best-infinity-14.png" />
+    </a>
+</div>
+<h1 id="heading-23"></h1>
+<p>Давайте вернёмся к нашей белой коробке. Пусть она будет снова пустой. Теперь засунем туда бесконечное количество элементов. Но что может быть бесконечным в нашем мире, если даже предполагается конечное количество атомов во Вселенной? Да, их сверх много, но количество конечно ограничено. Вселенная бесконечна? Ну это уже совсем философия. Но мы точно знаем что числа бесконечны, количество возможных текстов выбранного языка бесконечно, можно представить бесконечное количество планет, или шаров, а может время бесконечно? Возможно можно придумать ещё примеры. Хотя тут чувствуется некоторый подвох. Как это, атомов конечное количество, а чисел бесконечно. Так вот полностью никто не знает что такое бесконечность, однако с ней успешно работают, также, как и с множествами, при этом можно даже узнать, что одна бесконечность больше другой. Как это можно быть?</p>
+<h1 id="heading-24"></h1>
+<p><strong><a href="https://en.wikipedia.org/wiki/Countable_set">Счётные множества</a></strong></p>
+<h1 id="heading-25"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/box-inf.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/box-inf.png" />
+    </a>
+</div>
+<h1 id="heading-26"></h1>
+<p>Допустим, мы засовываем бесконечное количество шаров в нашу белую коробку, она вполне вместительна для этого, бесконечно вместительна. Это количество можно посчитать, вытаскивая их по очереди: 1, 2, 3 &hellip; Множество, элементы которого можно как бы бесконечно посчитать, называют счетными. Важно запомнить этот термин, так как он используется везде в математике.</p>
+<h1 id="heading-27"></h1>
+<p><strong>[<a href="https://en.wikipedia.org/wiki/Infinite_set">Несчётное множество</a>. <a href="https://en.wikipedia.org/wiki/Cardinality">Мощность/Кардинальность</a>.]</strong></p>
+<h1 id="heading-28"></h1>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/inf-inf.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/inf-inf.png" />
+    </a>
+</div>
+<h1 id="heading-29"></h1>
+<p>Пусть наша коробка снова пустая. Засунем туда два шара, но между ними будет бесконечное количество шаров, то есть между начальным и замыкающим шаром имеется бесконечное количество шаров, будто эту бесконечность зажали между двумя шарами. Значит есть начальный шар и следующий за ним, второй по порядку, второй - это не тот замыкающий. Пусть между начальным и вторым шаром имеется также бесконечное количество шаров, и второй по порядку становится замыкающим тоже, но относительно уже другой бесконечности, заключённой между начальным и вторым шаром первой бесконечности. Вух, прочитайте эти строки ещё раз, повнимательнее. Продолжим этот процесс угадайте до какой степени? До бесконечности. То есть между любыми двумя шарами есть бесконечность бесконечностей (надеюсь за такие слова меня не побьют философы). Вот такую систему вы уже не посчитаете, появляется сплошная бесконечная среда. Количество элементов этой штуки несчетно, но само слово &ldquo;количество&rdquo; уже вызывает противоречия, поэтому есть специальный обобщающий термин &ldquo;мощность&rdquo;, который также называют &ldquo;кардинальным числом&rdquo; и обозначают как card или | |. Например, мощность множества К колоды игральных карт равна 52 и этот факт записывается как card K = 52, или |K| = 52.</p>
+<h1 id="12-логические-операции-операции-со-множествами">1.2. Логические операции, операции со множествами</h1>
+<p><strong>Формализм | Логическое И | Логическое ИЛИ | Кванторы</strong></p>
+<p>Для того, чтобы продолжить говорить о множествах более формально, необходимо ввести дополнительные символы в наш формирующейся язык.</p>
+
+
+<div class="fancybox">
+    <a data-fancybox="gallery" href="https://dmtgk.github.io/images/math/1-chapter/logic.png" data-caption="">
+        <img src="https://dmtgk.github.io/images/math/1-chapter/logic.png" />
+    </a>
+</div>
+<h1 id="heading-30"></h1>
+<p><strong>Принадлежность элемента | Подмножество | Включение</strong></p>
+<ul>
+<li>принадлежность и включение, разница между ними</li>
+</ul>
+<h1 id="heading-31"></h1>
+<p><strong>Объединение множеств | Пересечение множеств | Разность множеств</strong></p>
+<h1 id="heading-32"></h1>
+<p><strong>Декартово произведение множеств</strong></p>
+<h1 id="13-функцииотображения">1.3. Функции/Отображения</h1>
+<p>После того, как мы разобрались со множествами&hellip;</p>
+<p><strong>Отношение</strong></p>
+<p><strong>Отображение</strong></p>
+<ul>
+<li>неформальное и формальное определение</li>
+<li>domain, codomain</li>
+<li>тождественная функция, включение, проблема определения через пары</li>
+<li>определение как тройки f=(A,B,R), где R - отношение или график</li>
+<li>формальное определение полностью не покрывает особенности функции</li>
+<li>количество возможных отображений из одного множества в другое</li>
+</ul>
+<p><strong>Образ | Прообраз</strong></p>
+<p><strong>Композиция отображений/функций</strong></p>
+<p><strong>Обратное отображение</strong></p>
+<p><strong>Инъекция | Сюръекция | Биекция</strong></p>
+<h1 id="14-числовые-множества">1.4. Числовые множества</h1>
+<ul>
+<li>простые числа</li>
+<li>натуральные числа</li>
+<li>положительные и отрицательные</li>
+<li>целые</li>
+<li>рациональные</li>
+<li>иррациональные</li>
+<li>действительные</li>
+<li>комплексные</li>
+<li>кватернионы</li>
+</ul>
+<h1 id="15-как-учить-и-понимать-математику">1.5. Как учить и понимать математику?</h1>
+<ul>
+<li>про вложенность концептов</li>
+<li>необходимые навыки для обучения любому предмету</li>
+</ul>
+</div>
+                    <div class="post_footer">
+                        
+                    </div>
+                </div>
+                
+                
+                <div class="doc_comments"></div>
+                
+            </div>
+        </div>
+    </div>
+    <a id="back_to_top" href="#" class="back_to_top"><i class="ri-arrow-up-s-line"></i></a>
+    <footer class="footer">
+    <div class="powered_by">
+        <a href="https://varkai.com">Designed by VarKai,</a>
+        <a href="http://www.gohugo.io/">Proudly published with Hugo</a>
+    </div>
+
+    <div class="footer_slogan">
+        <span>Мир | Труд | Трансгуманизм</span>
+    </div>
+</footer>
+    <script src="https://dmtgk.github.io/js/jquery-3.5.1.min.js"></script>
+<link href="https://dmtgk.github.io/css/fancybox.min.css" rel="stylesheet">
+<script src="https://dmtgk.github.io/js/fancybox.min.js"></script>
+<script src="https://dmtgk.github.io/js/zozo.js"></script>
+
+
+<script type="text/javascript" async
+    src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        MathJax.Hub.Config({
+            tex2jax: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\[\[', '\]\]']],
+                processEscapes: true,
+                processEnvironments: true,
+                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                TeX: {
+                    equationNumbers: { autoNumber: "AMS" },
+                    extensions: ["AMSmath.js", "AMSsymbols.js"]
+                }
+            }
+        });
+
+        MathJax.Hub.Queue(function () {
+            
+            
+            
+            var all = MathJax.Hub.getAllJax(), i;
+            for (i = 0; i < all.length; i += 1) {
+                all[i].SourceElement().parentNode.className += ' has-jax';
+            }
+        });
+    </script>
+
+<style>
+    code.has-jax {
+        font: inherit;
+        font-size: 100%;
+        background: inherit;
+        border: inherit;
+        color: #515151;
+    }
+</style>
+
+
+
+</body>
+
+</html>
