@@ -1,470 +1,276 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://dmtgk.github.io/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/intelligence/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/mind/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/physics/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/ru/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/strategy/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-11-01-myths/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-11-01-mind/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/10-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/6-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/7-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/8-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/9-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/1-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/1-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/10-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/2-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/2-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/3-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/3-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/4-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/4-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/5-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/5-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/6-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/7-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/8-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/computational/9-chapter/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/1-tasks/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/aging/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/biomarkers/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/death/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/drug-discovery/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/science/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/senescence/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-10-07-aging/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/bliki/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/structure/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-09-15/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/algebra/linear/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/algebra/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/algebra/algeom-1/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/analysis/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/discrete/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/foundations/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/geometry/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/scientific/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/statistical/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/systemic/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/topology/</loc>
     <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/about/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/addictions/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/5-applied-disciplines/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/attention/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/attention/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/learning/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/memory/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/prioritization/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/rest/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/rhythms/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/sleep/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/</loc>
     <lastmod>2020-07-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/eating/</loc>
     <lastmod>2020-07-09T18:57:27+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-05-17-bliki/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/tags/masks/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-05-07-mask/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/posts/2020-04-19-start/</loc>
     <lastmod>2020-04-19T22:27:27+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/1-zero-level/workplace/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/cognitive-biases/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/communication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/logic-biases/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/ontologics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/procrastinology/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/2-thinking-base/time-management/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/algebra/basic/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/algebra/representations/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/2-tasks/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/3-tasks/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/3-trans-thinking/mathematical/fast-math/4-tasks/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/balance/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/bodily-awareness/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/dexterity/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/flexibility/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/posture/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/speed/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/bliki/4-trans-disciplines/fitness/strength/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dmtgk.github.io/categories/</loc>
   </url>
-  
 </urlset>
